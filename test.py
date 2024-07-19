@@ -1,2 +1,2 @@
 print("Hello World")
-print("hey kya a")
+print("hey kya muje pata nahi")
